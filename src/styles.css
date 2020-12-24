@@ -1,0 +1,10 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  color: rgb(219, 71, 71);
+    background-color: rgb(179, 176, 170);
+}
